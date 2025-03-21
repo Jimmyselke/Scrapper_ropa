@@ -62,7 +62,7 @@ Antes de comenzar, asegúrate de tener instalado lo siguiente:
    Abre una terminal y ejecuta el siguiente comando para clonar el repositorio:
 
    ```bash
-   git clone https://github.com/tu-usuario/buscador-de-ropa.git
+   git clone (https://github.com/Jimmyselke/Scrapper_ropa.git)
    cd buscador-de-ropa
 
    
